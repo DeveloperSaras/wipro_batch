@@ -10,3 +10,5 @@ This is line 3
 This is line 4
 
 This change made by another developer
+
+This is line 5
